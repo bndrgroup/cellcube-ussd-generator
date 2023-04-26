@@ -16,7 +16,7 @@
   "dependencies": {
     "commander": "2.7.1",
     "mkdirp": "0.5.1",
-    "myriade-ussd-page-builder-node": "^1.0.0",
+    "myriade-ussd-page-builder-node": "https://github.com/fjamon/cellcube-ussd-page-builder-nodejs",
     "sorted-object": "1.0.0"
   },
   "main": "bin/myranogen",
